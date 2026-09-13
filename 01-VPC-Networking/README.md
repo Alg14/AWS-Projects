@@ -8,7 +8,7 @@ The infrastructure demonstrates AWS networking concepts including network segmen
 
 ## Architecture
 
-![VPC Architecture](architecture.png)
+![VPC Architecture](Screenshots/architecture.JPG)
 
 
 ## Network
@@ -94,34 +94,35 @@ Security Groups were configured using a least-privilege approach.
 This creates a controlled access path into the private subnet rather than exposing the private instance directly.
 
 ## Screenshots
+### SSH from Bastion Host to Private EC2
+
+![SSH](Screenshots/ssh.JPG)
 
 ### VPC
 
-![VPC](screenshots/vpc.png)
+![VPC](Screenshots/VPC.JPG)
 
 ### Subnets
 
-![Subnets](screenshots/subnets.png)
+![Subnets](Screenshots/subents.JPG)
 
 ### Route Tables
 
-![Route Tables](screenshots/route-tables.png)
+![Route Tables](Screenshots/public-route.JPG)
+![Route Table ](Screenshots/private-route.JPG)
+
 
 ### NAT Gateway
 
-![NAT Gateway](screenshots/nat-gateway.png)
+![NAT Gateway](Screenshots/Nat-gateway.JPG)
 
-### Bastion Host
+### Bastion Host & Private EC2
 
-![Bastion Host](screenshots/bastion-host.png)
-
-### Private EC2
-
-![Private EC2](screenshots/private-ec2.png)
+![Bastion Host](Screenshots/ec2.JPG)
 
 ### Security Groups
 
-![Security Groups](screenshots/security-groups.png)
+![Security Groups](Screenshots/sg.JPG)
 
 ## Key Technical Concepts
 
