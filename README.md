@@ -6,7 +6,7 @@ Hands-on AWS infrastructure projects covering networking, compute, Load balancer
 
 | #  | Project                                                    | Main Services                                                          |
 | -- | ---------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 01 | [VPC & Networking](01-vpc-networking/)                     | VPC, EC2, NAT Gateway, Internet Gateway, Route Tables, Security Groups |
+| 01 | [VPC & Networking](01-VPC-Networking)                     | VPC, EC2, NAT Gateway, Internet Gateway, Route Tables, Security Groups |
 | 02 | [Application Load Balancer](02-application-load-balancer/) | ALB, EC2, Target Groups, Security Groups                               |
 
 ## Skills & Technologies
