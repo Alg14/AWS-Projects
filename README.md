@@ -33,12 +33,10 @@ aws-projects/
 │
 ├── 01-vpc-networking/
 │   ├── README.md
-│   ├── architecture.png
 │   └── screenshots/
 │
 └── 02-application-load-balancer/
     ├── README.md
-    ├── architecture.png
     └── screenshots/
 ```
 
